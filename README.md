@@ -1,2 +1,2 @@
 # test.project.Odin
-Practice repo
+This is idafenastrate's first git project
